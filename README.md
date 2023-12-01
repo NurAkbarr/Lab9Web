@@ -85,7 +85,8 @@ Script :
 Implementasikan konsep modularisasi pada kode program praktikum 8 tentang
 database, sehingga setiap halamannya memiliki template tampilan yang sama. 
 
-## **Ootput**
+## **Output**
 ![img](assets/1.png)
 ![img](assets/2.png)
 ![img](assets/3.png)
+
